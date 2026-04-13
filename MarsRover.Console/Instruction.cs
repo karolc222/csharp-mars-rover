@@ -1,5 +1,5 @@
 namespace MarsRover.Console;
-enum Instruction
+public enum Instruction
 {
 	L,
 	R,
