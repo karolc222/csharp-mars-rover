@@ -11,7 +11,5 @@ namespace MarsRover.Console;
 //     //direction facing: N,E,S,W
 //     public CompassDirections facing; // this type can be whatever your direction enum is called
 
-//     //record is a type like a class, but replaces it to focus on the data that creates objects 
-    //}
-
-    public record Position(int x, int y, CompassDirections Facing);
+//record is a type like a class, but replaces it to focus on the data that creates objects 
+public record Position(int x, int y, CompassDirections Facing);
