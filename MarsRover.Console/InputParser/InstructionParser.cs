@@ -1,4 +1,4 @@
-//returns a list of Instruction types when given a string 
+//returns a list of Instructions types when given a string 
 //input layer 
 namespace MarsRover.Console.InputParser;
 
